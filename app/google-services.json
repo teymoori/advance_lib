@@ -1,0 +1,451 @@
+{
+  "project_info": {
+    "project_number": "1089034769725",
+    "firebase_url": "https://advancedandroid-b3669.firebaseio.com",
+    "project_id": "advancedandroid-b3669",
+    "storage_bucket": "advancedandroid-b3669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:9666ae9081d7fea6",
+        "android_client_info": {
+          "package_name": "advance.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-qnkm5hjijel9na1icmq0sogdj8cfl8ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "advance.android",
+            "certificate_hash": "1891056ca923e250e61e4a33d73b8ea0bcdfad57"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:92929ae5ece0b006",
+        "android_client_info": {
+          "package_name": "advanced.android.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-ueq32vjdfou3l0jvtd8ebgrab9goh65h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "advanced.android.test",
+            "certificate_hash": "bcee3cadc3e601c786772ccdf9cce85be0c5785d"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:7c94ad64a4154d65",
+        "android_client_info": {
+          "package_name": "elco21.android.charttemp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-e6dtf73uecp3u7djvt02l26lblrjmq4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "elco21.android.charttemp",
+            "certificate_hash": "bcee3cadc3e601c786772ccdf9cce85be0c5785d"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:4b645aec0b433658",
+        "android_client_info": {
+          "package_name": "ir.android.ilike.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-ca4aar0ktdsrgjsptj8g4f4deb47fgmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.android.ilike.weatherapp",
+            "certificate_hash": "1891056ca923e250e61e4a33d73b8ea0bcdfad57"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:9fa9ff889bbd0641",
+        "android_client_info": {
+          "package_name": "sematec.advance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-ekok5cbv5opc9an9rkvqimh4l0entmfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sematec.advance",
+            "certificate_hash": "1891056ca923e250e61e4a33d73b8ea0bcdfad57"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:7a9c90fe67b1bd01",
+        "android_client_info": {
+          "package_name": "sematec.advance.mondays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-2kbl3v6hbhs0mvq2ev54bhu5pjpnalgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sematec.advance.mondays",
+            "certificate_hash": "1891056ca923e250e61e4a33d73b8ea0bcdfad57"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:37eaef1ed7fd04ee",
+        "android_client_info": {
+          "package_name": "sematec.advanceandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-6i0v64mne3bofrchc0tmsj6bk6guj41i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sematec.advanceandroid",
+            "certificate_hash": "217e6de8b44d3e944a25019d931d755c5f3d8bc2"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:7b271db00e0bfb1b",
+        "android_client_info": {
+          "package_name": "sematec.advancedandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-nlnimodfp149rhh0g8rodt8q4ojdc2ef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sematec.advancedandroid",
+            "certificate_hash": "217e6de8b44d3e944a25019d931d755c5f3d8bc2"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:81e68007391a64a4",
+        "android_client_info": {
+          "package_name": "sematec.android.saturdays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-e2d9b3bt0thffks6mse6f27p4l3953m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sematec.android.saturdays",
+            "certificate_hash": "217e6de8b44d3e944a25019d931d755c5f3d8bc2"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089034769725:android:8a982042cf2a33d2",
+        "android_client_info": {
+          "package_name": "sematec.java.advanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089034769725-9log2p4bkb164aertt23jfoc79bcocsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sematec.java.advanceapp",
+            "certificate_hash": "1891056ca923e250e61e4a33d73b8ea0bcdfad57"
+          }
+        },
+        {
+          "client_id": "1089034769725-rnh5unjljdg28hatlu52k9rpgian4jkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASg0Q9hXnxt8t-V8RH4KOS6klk3TiXj68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089034769725-m9nlmtsab9qml8377foo8dopbn5htc87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/paddingActivities"
+    tools:context=".recyclerPro.RecyclerProActivity">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <advance.android.customViews.MyEditText
+            android:id="@+id/foodName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter food name" />
+
+        <advance.android.customViews.MyEditText
+            android:id="@+id/foodType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter food type" />
+
+        <advance.android.customViews.MyEditText
+            android:id="@+id/foodPrice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter food price" />
+
+        <advance.android.customViews.MyEditText
+            android:id="@+id/foodImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter food image" />
+
+
+        <advance.android.customViews.MyButton
+            android:id="@+id/save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Save" />
+
+
+
+        <advance.android.customViews.MyEditText
+            android:id="@+id/search"
+            android:hint="Enter word to search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler"
+            android:orientation="vertical"
+            app:layoutManager="android.support.v7.widget.LinearLayoutManager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </LinearLayout>
+
+</ScrollView>
